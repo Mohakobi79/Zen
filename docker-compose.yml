@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: nao-bot
+    build: .
+    ports:
+      - "5100:5100"
+    volumes:
+      - .:/app                  
+      - ./sessions:/app/sessions #NOTE: Sebelum mount silahkan buat folder 'sessions' dahulu
+      - /app/node_modules       
+      - /database.json:/app/database.json
+    environment:
+      NODE_ENV: production
+    command: "node index.js"
+    restart: unless-stopped
