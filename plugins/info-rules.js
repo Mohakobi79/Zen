@@ -73,7 +73,7 @@ By using Zenn MD ESM, you agree to abide by all applicable terms.
           mediaType: 1,
           previewType: 0,
           renderLargerThumbnail: true,
-          thumbnailUrl: 'https://telegra.ph/file/14a7745f434cd21e900d6.jpg',
+          thumbnailUrl: global.thumbnailUrl[0],
           sourceUrl: 'https://www.instagram.com/nandaaa_79',
         }
       }, mentions: [m.sender]

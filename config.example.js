@@ -35,7 +35,7 @@ global.pairing = '62xxxxx' // Number for pairing sessions
 global.owner = [['62xxxxx', 'Zennn', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
+global.nomorbot = '62xxxxxx'
 global.nomorown = '62xxxxx'
 
 /*============= WATERMARK =============*/
@@ -46,7 +46,7 @@ global.wm = "© Zenn-MD By Nandaxy";
 global.watermark = wm;
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`;
 global.bottime = `T I M E : ${wktuwib}`;
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/Nandaxy\nZenn-MD ESM\n+${nomorbot}`;
+global.stickpack = `Sticker By ${namebot}\n${namebot}}\n+${nomorbot}`;
 global.stickauth = `© Zenn-MD By Nandaxy`;
 global.week = `${week} ${date}`;
 global.wibb = `${wktuwib}`;
@@ -114,12 +114,12 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumb = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
-global.giflogo = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
-global.thumbs = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
+global.thumb = 'https://i.ibb.co.com/r0dqwDW/logdsaaaaaaaaaaaaaaaareatrto-2.png' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co.com/r0dqwDW/logdsaaaaaaaaaaaaaaaareatrto-2.png'
+global.giflogo = 'https://i.ibb.co.com/r0dqwDW/logdsaaaaaaaaaaaaaaaareatrto-2.png'
+global.thumbs = ['https://i.ibb.co.com/r0dqwDW/logdsaaaaaaaaaaaaaaaareatrto-2.png']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
+  'https://i.ibb.co.com/qRkZXDc/cai-1.png'
 ]
 global.fotonya1 = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg' //ini juga ganti 
@@ -137,9 +137,9 @@ global.fla = [
  "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=",
  "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text="
 ]
-global.hwaifu = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
+global.hwaifu = ['https://i.ibb.co.com/r0dqwDW/logdsaaaaaaaaaaaaaaaareatrto-2.png']
 global.thumblvlup = [
-  'https://i.pinimg.com/originals/a0/34/8a/a0348ae908d8ac4ced76df289eb41e1a.jpg',
+  'https://i.ibb.co.com/8XxTGxX/cai.png',
   'https://i.pinimg.com/originals/be/3b/47/be3b477371cc249e49fd0bb3284de7d7.jpg',
   'https://i.pinimg.com/originals/63/c3/37/63c337596b3391df0e72a9729ceca7b6.jpg',
   'https://i.pinimg.com/originals/db/ed/5a/dbed5afac55d266602d0ca0c67622bb9.jpg'

@@ -6,3 +6,4 @@ enc/*
 sftp/
 config.js
 bot.sh
+database.example.json
