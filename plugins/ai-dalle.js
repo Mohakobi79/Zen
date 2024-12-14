@@ -21,7 +21,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
 handler.help = ['dalle <prompt>']
 handler.tags = ['ai']
-handler.command = /^(dalle)$/i
+handler.command = /^(dlle)$/i
 
 handler.premium = false
 handler.limit = 5
