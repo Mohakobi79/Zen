@@ -29,14 +29,11 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install dependencies
-      run: npm install
+      run: npm i
 
-    - name: Install FFmpeg
-      run: sudo apt-get install -y ffmpeg
-
+    
     - name: Start application with timeout
-      run: |
-        timeout 21590s npm start  # Limite l'exécution à 5h 59m 50s
+      run: npm start 
 
     - name: Save state (Optional)
       run: |
