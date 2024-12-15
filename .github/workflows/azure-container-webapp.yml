@@ -42,7 +42,7 @@ jobs:
 
       # Install dependencies
       - name: Install step
-        run: "npm i"
+        run: "yarn"
 
       # Build the project
       - name: Build step
